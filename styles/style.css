@@ -1,9 +1,12 @@
-
+/*font style*/
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:ital@0;1&family=Oswald&family=Poppins:ital,wght@0,500;1,500&display=swap" rel="stylesheet">
 /*Common style*/
 body{
     font-family: 'Libre Franklin', sans-serif;
-font-family: 'Oswald', sans-serif;
-font-family: 'Poppins', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
 background-color: #f3f1ff;
 }
 main{
